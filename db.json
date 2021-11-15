@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nama": "Rizal",
+      "pinjam": "1 Nov 2021",
+      "pengembalian": "8 Nov 2021",
+      "judul": "Stan By Me"
+    },
+    {
+      "nama": "rijal",
+      "judul": "Uzmaki Bayu",
+      "pinjam": "6 Nov 2021",
+      "pengembalian": "14 Nov 2021",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "nama": "Faza akbar",
+      "judul": "Buku Sembarang",
+      "pinjam": "6 Nov 2021",
+      "pengembalian": "9 Nov 2021"
+    },
+    {
+      "nama": "Helmi",
+      "judul": "Life Not dead",
+      "pinjam": "6 Nov 2021",
+      "pengembalian": "12 Nov 2021",
+      "id": "4"
+    },
+    {
+      "id": "6U2Td_I",
+      "nama": "xcode",
+      "judul": "kisah nabi",
+      "pinjam": "2021-11-18",
+      "pengembalian": "2021-11-19"
+    }
+  ]
+}
